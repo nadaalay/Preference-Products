@@ -1,4 +1,4 @@
-## Preference Prodcuts
+## Preference Products
 
 ## Project Motivation
 Customers are important to the survival and success of any business because they are the source of the revenue. The success of a business is the ability to satisfy customers and make them happy, and therefore turn a profit from them. Giving the customer recommendation about items that can buy it may attract them. Using retail transactional data can help in products recommendations. 
